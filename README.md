@@ -64,7 +64,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/nguyen.thuanphat.33" target="blank">
+  <a href="https://www.facebook.com/nthuanphatt" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thuanphat-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/thuanphat" target="blank">
