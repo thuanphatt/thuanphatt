@@ -1,6 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=thuanphatt&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 
-🔭 I’m currently working on MEVN Project<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m Front End developer<br>👉 I'm styding Can Tho University<br>👉 I am majoring in Information Technology<br>📧 How to reach me: thphatt@gmail.com <br>
 
 ## 🌐 Socials:
 
@@ -21,7 +23,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=thuanphatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
