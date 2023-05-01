@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m Front End developer<br>👉 I'm styding Can Tho University<br>👉 I am majoring in Information Technology<br>📧 How to reach me: thphatt@gmail.com <br>
+🔭 I’m Front End developer<br>👉 I'm styding Can Tho University<br>👉 I'm studying information technology as my major<br>📧 How to reach me: thphatt@gmail.com <br>
 
 ## 🌐 Socials:
 
