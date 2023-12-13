@@ -1,23 +1,68 @@
-[![](https://visitcount.itsvg.in/api?id=thuanphatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
+# BUILDING A HIGH-TECH AGRICULTURAL EQUIPMENT AND SERVICES BUSINESS SYSTEM
 
-🔭 I’m Front End developer<br>👉 I'm styding Can Tho University<br>👉 I'm studying information technology as my major<br>📧 How to reach me: thphatt@gmail.com <br>
 
-# 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nthuanphatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuanphatt/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thuan_phatt)
 
-## 📊 GitHub Stats:
+## Authors
 
-![](https://github-readme-stats.vercel.app/api?username=thuanphatt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thuanphatt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
-<br>![](https://github-readme-streak-stats.herokuapp.com/?user=thuanphatt&theme=tokyonight&hide_border=true)
+- [@thuanphatt](https://www.github.com/thuanphatt)
 
-# ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Tech Stack
 
----
+**Client:** React, Redux, TailwindCSS
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Server:** Node, Express
+
+**Database:** MongoDB
+
+**Clound-base:** Cloudinary
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+**Server:**
+
+`PORT`=5000
+
+`MONGODB_URI`=YOUR_MONGODB_URI
+
+`JWT_SECRET`=YOUR_JWT_SECRET
+
+`EMAIL_APP_PASSWORD`=YOUR_EMAIL_APP_PASSWORD
+
+`EMAIL_NAME`=YOUR_EMAIL_NAME
+
+`URL_SERVER`=http://localhost:5000
+
+`LIMIT_PRODUCTS`=10
+
+`CLOUDINARY_NAME`=YOUR_CLOUDINARY_NAME
+
+`CLOUDINARY_KEY`=YOUR_CLOUDINARY_KEY
+
+`CLOUDINARY_SECRET`=YOUR_CLOUDINARY_SECRET
+
+`CLIENT_URL`=http://localhost:3000
+
+`VNP_TMN_CODE`=YOUR_VNP_TMN_CODE
+
+`VNP_HASH_SECRET`=YOUR_VNP_HASH_SECRET
+
+`VNP_API_URL`="https://sandbox.vnpayment.vn/paymentv2/vpcpay.ht
+ml"
+
+**Client:**
+
+`REACT_APP_API_URI`=http://localhost:5000/api
+
+`REACT_APP_LIMIT`=10
+
+`REACT_APP_MCETINY`=YOUR_REACT_APP_MCETINY
+## Demo
+
+https://greentp.vercel.app/
+
