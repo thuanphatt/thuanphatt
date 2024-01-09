@@ -1,3 +1,7 @@
+<div align="center">
+[![Hello World, I'm thphat!](assets/header.gif)](https://github.com/thuanphatt)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+</div>
 [![](https://visitcount.itsvg.in/api?id=thuanphatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
