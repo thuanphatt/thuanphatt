@@ -2,10 +2,6 @@
 [![](https://visitcount.itsvg.in/api?id=thuanphatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-<div align="center">
-[![Hello World, I'm thuanphat!](assets/header.gif)](https://github.com/thuanphatt)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
-</div>
 🔭 I’m Front End developer<br>👉 I'm styding Can Tho University<br>👉 I'm studying information technology as my major<br>📧 How to reach me: thphatt@gmail.com <br>
 
 # 🌐 Socials:
