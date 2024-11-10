@@ -10,10 +10,15 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thuanphatt&show_icons=true&theme=gotham" alt="thuanphatt" />
+<a href="https://github.com/thuanphatt/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thuanphatt&theme=gotham" />
+</a>
+<a href="https://github.com/thuanphatt/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thuanphatt&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+</a>
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham)
 
 ---
