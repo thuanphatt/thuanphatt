@@ -13,9 +13,9 @@
 <p align="center"><a href="https://github.com/thuanphatt/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thuanphatt&theme=gotham" />
 </a>
-<p align="center"><a href="https://github.com/thuanphatt/convoychat">
+<a href="https://github.com/thuanphatt/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thuanphatt&layout=compact&langs_count=8&card_width=320&theme=gotham" />
-</a>
+</a> </p>
 
 # ✍️ Random Dev Quote
 
