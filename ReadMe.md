@@ -19,6 +19,9 @@
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham)
 
+<p align="center">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=thuanphatt&theme=gotham](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham)" />
+
+ </p>
 ---
