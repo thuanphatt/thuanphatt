@@ -10,9 +10,7 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=thuanphatt&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thuanphatt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
-<br>![](https://github-readme-stats.vercel.app/api?username=thuanphatt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thuanphatt&show_icons=true&theme=gotham" alt="thuanphatt" />
 
 # ✍️ Random Dev Quote
 
